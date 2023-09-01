@@ -198,6 +198,24 @@ Email: __________________________________   Company Website: ___________________
 - [ ] 3/N AC 300/173 V
 - [ ] 3/N AC 400/230 V
 
+**Measuring Range (Current Monitoring)**
+- [ ] AC/DC 0,001 - 10 A
+- [ ] AC/DC 0,002 - 10 A
+- [ ] AC/DC 0,5 - 12 A
+- [ ] AC, DC 0,002 - 10 V
+- [ ] AC, DC 0,002 - 25 A
+- [ ] AC, DC 0,5 - 16 A
+- [ ] AC 0,05 - 10 A
+- [ ] AC 0,1 - 15 A
+- [ ] AC 0,1 - 50 A
+- [ ] AC 0,175 - 1 A
+- [ ] AC 0,5 - 16 A
+- [ ] AC 0,5 - 100 A
+- [ ] AC 1 - 10 A
+- [ ] AC 1 - 15 A
+- [ ] AC 4 - 100 A
+- [ ] AC 5 - 50 A
+
 **Notes on Application:**
 
 **Cross Reference Part Number:**
